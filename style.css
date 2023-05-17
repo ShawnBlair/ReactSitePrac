@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: inter;
+    background-color: lightslategrey;
+}
+
+.navb {
+    background-color: darkslategray;
+    display: flex;
+    align-items: center;
+}
+
+.p1 {
+    margin-left: 26px;
+    color: lightseagreen;
+    margin-bottom: 18px;
+    font-weight: 700;
+}
+
+.p2 {
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 140px;    
+}
+
+.ff {
+    font-weight: 700;
+    font: bold;
+    font-size: 30px;
+    margin-left: 15px;
+    color: white;    
+}
+
+.ff2 {
+    margin-left: 15px;
+    color: white;
+    font-size: 1.1rem;  
+}
